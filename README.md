@@ -1,4 +1,4 @@
-# Titanic-Interactive-Survival-Prediction
+# Interactive-Titanic-Survival-Prediction
 This is an interactive survival prediction for Titanic written in Python and trained with Random Forest Classifier.
 
 ## Data
