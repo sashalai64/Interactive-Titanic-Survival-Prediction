@@ -6,7 +6,7 @@ Titanic - Machine Learning from Disaster:
 https://www.kaggle.com/competitions/titanic/data
 
 ## How to use
-Open in `JupyterLab` in order to function properly.
+Open notebook in `JupyterLab` in order to function properly.
 
 ## Features
 - Predict a passenger's survival by inputting their information through the interactive interface.
